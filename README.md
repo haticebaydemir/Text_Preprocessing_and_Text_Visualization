@@ -66,6 +66,7 @@ Bu görseller, metin verisinin dil yapısını ve dağılımını daha iyi anlam
 Bu projeyi, doğal dil işleme alanında daha fazla bilgi edinmek ve uygulama geliştirmek isteyenler için bir başlangıç noktası olarak tasarladım. Geri bildirimlerinizi ve katkılarınızı her zaman beklerim.
 
 # İletişim
+
 Sorularınız veya önerileriniz için aşağıdaki iletişim bilgilerini kullanabilirsiniz:
 
 E-posta: baydemirhatice@hotmail.com
